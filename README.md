@@ -1,4 +1,4 @@
-﻿# 🧠 SkinWizard – AI-Powered Skin Disease Detection System (Backend)
+﻿# 🧠 SkinWizard – AI-Powered Skin Disease Detection System 
 
 ## 📌 Overview
 
